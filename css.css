@@ -1,0 +1,30 @@
+#header{
+	background-color:#474548;
+	padding-top: 01px;
+	padding-bottom: 01px;
+}
+
+#context{
+	position: absolute;
+	background-color:skyblue ;
+	//padding-top: 10px;
+	//padding-bottom: 10px;
+	width: 110px;
+	padding-right: 07px;
+}
+
+#rules{
+	//color:#ffbb04;
+	//font-family: pristina;
+}
+
+#matter{
+	font-family: vani;
+	background-color: white;
+	margin-left: 125px;
+	margin-right: 125px;
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
